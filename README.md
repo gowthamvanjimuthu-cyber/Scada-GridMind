@@ -2,8 +2,9 @@
 
 A real-time **Microgrid Energy Management System (EMS)** and **SCADA Controller** featuring AI-driven dispatch optimization, digital twin simulation, and industrial protocol emulation.
 
-🔗 **Live Demo (MVP):** https://gowthamvanjimuthu-cyber.github.io/microgrid-scada/
+🔗 **Live Demo (MVP)** 
 
+https://gowthamvanjimuthu-cyber.github.io/Scada-GridMind/
 
 ---
 
